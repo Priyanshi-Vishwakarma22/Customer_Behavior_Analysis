@@ -79,20 +79,19 @@ git clone https://github.com/your-username/your-repo.git
 pip install pandas numpy matplotlib seaborn
 ```
 
-- Run Python scripts
-- 
-Load dataset
-Perform cleaning and EDA
+### 3. Run Python Scripts
+- Load the dataset  
+- Perform data cleaning and EDA  
 
-4.Run SQL Queries
-Import dataset into SQL Server
-Execute provided SQL scripts
+### 4. Run SQL Queries
+- Import dataset into SQL Server  
+- Execute the provided SQL scripts  
 
-5.Open Power BI Dashboard
-Load '.pbix' file in Power BI
+### 5. Open Power BI Dashboard
+- Load the `.pbix` file in Power BI  
 
-6.View Presentation
-Open the PPT created using Gamma
+### 6. View Presentation
+- Open the PPT created using Gamma 
 
 ## 📎 Conclusion
 
