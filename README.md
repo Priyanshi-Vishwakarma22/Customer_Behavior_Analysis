@@ -71,19 +71,23 @@ Provided actionable insights for business improvement
 
 Clone the repository
 
-git clone <your-repo-link>
+'''git clone <your-repo-link>
 
 Install required libraries
 
-pip install pandas numpy matplotlib seaborn
+'''pip install pandas numpy matplotlib seaborn
+
 Run Python scripts
 Load dataset
 Perform cleaning and EDA
+
 Run SQL Queries
 Import dataset into SQL Server
 Execute provided SQL scripts
+
 Open Power BI Dashboard
 Load .pbix file in Power BI
+
 View Presentation
 Open the PPT created using Gamma
 
