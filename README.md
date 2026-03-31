@@ -1,7 +1,7 @@
 # Customer_Behavior_Analysis
 Data Analytics Project
 
-📌 Overview
+#📌 Overview
 
 This project demonstrates a complete end-to-end data analytics workflow. It includes data loading, cleaning, exploratory data analysis (EDA), SQL-based analysis, dashboard creation, and final reporting.
 
