@@ -69,9 +69,30 @@ Provided actionable insights for business improvement
 
 ## ▶️ How to Run the Project
 
-### 1. Clone the repository
+### Clone the repository
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/your-username/your-repo.git
+```
 
-### 2. Install required libraries
+### Install required libraries
+```bash
 pip install pandas numpy matplotlib seaborn
+```
+
+3. Run Python scripts
+Load dataset
+Perform cleaning and EDA
+
+4.Run SQL Queries
+Import dataset into SQL Server
+Execute provided SQL scripts
+
+5.Open Power BI Dashboard
+Load '.pbix' file in Power BI
+
+6.View Presentation
+Open the PPT created using Gamma
+
+## 📎 Conclusion
+
+This project showcases practical skills in data analysis, SQL, visualization, and reporting, making it suitable for real-world business problem solving.
