@@ -69,25 +69,9 @@ Provided actionable insights for business improvement
 
 ## ▶️ How to Run the Project
 
-
 ### 1. Clone the repository
+```bash
+git clone <your-repo-link>
 
-'''bash-> git clone <your-repo-link>
-
-Install required libraries
-
-'''python-> pip install pandas numpy matplotlib seaborn
-
-#### Run Python scripts
-Load dataset
-Perform cleaning and EDA
-
-# Run SQL Queries
-Import dataset into SQL Server
-Execute provided SQL scripts
-
-# Open Power BI Dashboard
-Load .pbix file in Power BI
-
-# View Presentation
-Open the PPT created using Gamm
+### 2. Install required libraries
+pip install pandas numpy matplotlib seaborn
