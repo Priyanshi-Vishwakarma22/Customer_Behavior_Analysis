@@ -69,9 +69,10 @@ Provided actionable insights for business improvement
 
 ## ▶️ How to Run the Project
 
-Clone the repository
 
-'''git-> git clone <your-repo-link>
+### 1. Clone the repository
+```bash
+git clone <your-repo-link>
 
 Install required libraries
 
