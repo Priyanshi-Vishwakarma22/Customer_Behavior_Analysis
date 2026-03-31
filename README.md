@@ -71,8 +71,8 @@ Provided actionable insights for business improvement
 
 
 ### 1. Clone the repository
-```bash
-git clone <your-repo-link>
+
+'''bash-> git clone <your-repo-link>
 
 Install required libraries
 
@@ -90,8 +90,4 @@ Execute provided SQL scripts
 Load .pbix file in Power BI
 
 # View Presentation
-Open the PPT created using Gamma
-
-## 📎 Conclusion
-
-This project showcases practical skills in data analysis, SQL, visualization, and reporting, making it suitable for real-world business problem solving.
+Open the PPT created using Gamm
