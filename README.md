@@ -79,7 +79,8 @@ git clone https://github.com/your-username/your-repo.git
 pip install pandas numpy matplotlib seaborn
 ```
 
-3. Run Python scripts
+- Run Python scripts
+- 
 Load dataset
 Perform cleaning and EDA
 
