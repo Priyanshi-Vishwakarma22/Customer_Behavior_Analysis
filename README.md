@@ -77,7 +77,7 @@ Install required libraries
 
 '''python-> pip install pandas numpy matplotlib seaborn
 
-# Run Python scripts
+#### Run Python scripts
 Load dataset
 Perform cleaning and EDA
 
